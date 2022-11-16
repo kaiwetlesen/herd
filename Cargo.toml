@@ -4,6 +4,10 @@ version = "0.1.0"
 authors = ["Kai Wetlesen <kwetlesen@mac.com>"]
 edition = "2021"
 readme = "README.md"
+description = "A mechanism to manage a herd of cattle, where the herd is a cluster and cattle are the runtimes."
+license = "null"
+homepage = "https://kaiw.dk/herd/"
+repository = "https://github.com/kaiwetlesen/herd"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
