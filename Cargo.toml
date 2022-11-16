@@ -5,7 +5,7 @@ authors = ["Kai Wetlesen <kwetlesen@mac.com>"]
 edition = "2021"
 readme = "README.md"
 description = "A mechanism to manage a herd of cattle, where the herd is a cluster and cattle are the runtimes."
-license = "null"
+license = "EUPL-1.2"
 homepage = "https://kaiw.dk/herd/"
 repository = "https://github.com/kaiwetlesen/herd"
 
